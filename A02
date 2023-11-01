@@ -1,0 +1,25 @@
+<DOCTYPE html>
+<body>
+<!-- Part 1 -->.
+<h1> Directions on Using Webstorm.</h1>
+<ul>
+    <a href="https://www.jetbrains.com/help/webstorm/run-for-the-first-time.html" target="_blank">Visit JetBrains WebStorm Guide</a>
+<li>Clcik on RemoteDevelopment to run, and debug, and deploy projetcs remotely</li>>
+<li>Start a project on webstorm in the welcome screen</li>>
+<-- Glossaey to include these terms in a bulleted list -->
+<h2>terms and defintions </h2>
+<ul>
+    <li>Branch - Entry in a small database</li>
+    <li>Clone - The git clone command is used to create a copy of a specific repository or branch within a repository. When you clone a repo you get a copy of the entire history of the repo</li>
+    <li>Commit - an individual change to a file (or set of files)</li>
+    <li>Fetch - primary command used to download contents from a remote repository. </li>
+    <li>GIT -  distributed version control system, which means that a local clone of the project is a complete version control repository.</li>
+    <li>Github - for-profit company that offers a cloud-based Git repository hosting service.</li>
+    <li>Merge - a command that allows you to combine changes from one branch with another branch. </li>
+    <li>Merge Conflict - when two branches both modify the same region of a file and are subsequently merged.</li>
+    <li>Push - push updates the remote branch with local commits.</li>
+    <li>Pull - a combination of git fetch + git merge, updates some parts of your local repository with changes from the remote repository. </li>
+    <li>Remote - It allows you to show which remotes are currently connected, but also to add new connections or remove existing ones. </li>
+    <li>Repository - Repositories in GIT contain a collection of files of various different versions of a Project.</li>
+</ul>
+</body>
